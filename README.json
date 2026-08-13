@@ -1,0 +1,148 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [],
+      "title": "Vaults and websites grouped by topic (52)"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Resources (9)"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Project N.O.M.A.D.",
+          "description": ". Bundles Kiwix, a local AI assistant (Ollama + Qdrant), Kolibri courses, ProtoMaps, CyberChef, and FlatNotes.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-12T21:34:10Z",
+            "owner": "Crosstalk-Solutions",
+            "repo": "project-nomad",
+            "stars": 35754
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Wikipedia from itkach: wiki",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-05-09T18:01:32Z",
+            "owner": "itkach",
+            "repo": "slob",
+            "stars": 295
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Wikis and Dicts from itkach: wiki",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-05-09T18:01:32Z",
+            "owner": "itkach",
+            "repo": "slob",
+            "stars": 295
+          }
+        }
+      ],
+      "title": "Encyclopedia Resources (5)"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Wiktionary and Wikibooks from itkach: wiki",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-05-09T18:01:32Z",
+            "owner": "itkach",
+            "repo": "slob",
+            "stars": 295
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Word Dictionaries (Wordnet and Freedict) from itkach: wiki",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-05-09T18:01:32Z",
+            "owner": "itkach",
+            "repo": "slob",
+            "stars": 295
+          }
+        }
+      ],
+      "title": "Dictionaries and Language Resources (2)"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Obsidian Digital Garden - Showcases",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-10T19:52:44Z",
+            "owner": "oleeskild",
+            "repo": "obsidian-digital-garden",
+            "stars": 2458
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Awesome list of Digital gardens - lyz-code",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2026-08-12T19:13:07Z",
+            "owner": "lyz-code",
+            "repo": "best-of-digital-gardens",
+            "stars": 588
+          }
+        }
+      ],
+      "title": "List of Showcases (3)"
+    },
+    {
+      "description": "Contributions are welcome! See CONTRIBUTING.md for how to suggest a vault, the formatting rules, and the criteria for the ✨ mark. The quickest way is to open a \"Suggest a vault\" issue.",
+      "items": [],
+      "title": "Contributing"
+    },
+    {
+      "description": "This list is dedicated to the public domain under CC0 1.0. Linked vaults remain under their respective owners' licenses.",
+      "items": [],
+      "title": "License"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T04:11:36.306Z",
+    "original_repository": "obsidian-pkm-vault/awesome-obsidian-vault",
+    "original_repository_sha": "3a3830b48f2b04240e1b82f1ae792691bb3062c4",
+    "enhanced_repository": "enhansome/enhansome-obsidian-vault",
+    "enhanced_repository_description": null,
+    "title": "Awesome List of Obsidian vaults with stars"
+  }
+}
