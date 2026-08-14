@@ -191,28 +191,28 @@ A curated list of awesome resources, templates, guides for developers, digital g
 
 ## Encyclopedia Resources (5)
 
-* [Project N.O.M.A.D.](https://github.com/crosstalk-solutions/project-nomad) ⭐ 35,754 | 🐛 72 | 🌐 TypeScript | 📅 2026-08-12. Bundles Kiwix, a local AI assistant (Ollama + Qdrant), Kolibri courses, ProtoMaps, CyberChef, and FlatNotes.
-* Wikipedia from itkach: [wiki](https://github.com/itkach/slob/wiki/Wikipedia) ⭐ 295 | 🐛 1 | 🌐 Python | 📅 2026-05-09
-* Wikis and Dicts from itkach: [wiki](https://github.com/itkach/slob/wiki/Other-projects) ⭐ 295 | 🐛 1 | 🌐 Python | 📅 2026-05-09
+* [Project N.O.M.A.D.](https://github.com/crosstalk-solutions/project-nomad) ⭐ 35,776 | 🐛 75 | 🌐 TypeScript | 📅 2026-08-13. Bundles Kiwix, a local AI assistant (Ollama + Qdrant), Kolibri courses, ProtoMaps, CyberChef, and FlatNotes.
+* Wikipedia from itkach: [wiki](https://github.com/itkach/slob/wiki/Wikipedia) ⭐ 294 | 🐛 1 | 🌐 Python | 📅 2026-05-09
+* Wikis and Dicts from itkach: [wiki](https://github.com/itkach/slob/wiki/Other-projects) ⭐ 294 | 🐛 1 | 🌐 Python | 📅 2026-05-09
 * Kiwix Library (wikis offline under .zim): [library](https://library.kiwix.org/#lang=eng)
 * Wikimedia Dumps: [static HTML Dumps](https://dumps.wikimedia.org/other/static_html_dumps/)
 
 ## Dictionaries and Language Resources (2)
 
-* Wiktionary and Wikibooks from itkach: [wiki](https://github.com/itkach/slob/wiki/Wiktionary-and-Wikibooks) ⭐ 295 | 🐛 1 | 🌐 Python | 📅 2026-05-09
-* Word Dictionaries (Wordnet and Freedict) from itkach: [wiki](https://github.com/itkach/slob/wiki/Word-dictionaries-\(Wordnet-and-Freedict\)) ⭐ 295 | 🐛 1 | 🌐 Python | 📅 2026-05-09
+* Wiktionary and Wikibooks from itkach: [wiki](https://github.com/itkach/slob/wiki/Wiktionary-and-Wikibooks) ⭐ 294 | 🐛 1 | 🌐 Python | 📅 2026-05-09
+* Word Dictionaries (Wordnet and Freedict) from itkach: [wiki](https://github.com/itkach/slob/wiki/Word-dictionaries-\(Wordnet-and-Freedict\)) ⭐ 294 | 🐛 1 | 🌐 Python | 📅 2026-05-09
 
 ## Cheat Sheets and Miscellaneous (2)
 
 * Anki Shared Decks: [vault](https://ankiweb.net/shared/decks/)
-* Cheatsheets from rstacruz: [vault](https://github.com/rstacruz/cheatsheets) ⭐ 14,453 | 🐛 929 | 🌐 SCSS | 📅 2026-08-08
+* Cheatsheets from rstacruz: [vault](https://github.com/rstacruz/cheatsheets) ⭐ 14,454 | 🐛 929 | 🌐 SCSS | 📅 2026-08-08
 
 ***
 
 ## List of Showcases (3)
 
-* [Obsidian Digital Garden - Showcases](https://github.com/oleeskild/obsidian-digital-garden/issues/55) ⭐ 2,458 | 🐛 216 | 🌐 TypeScript | 📅 2026-08-10
-* [Awesome list of Digital gardens - lyz-code](https://github.com/lyz-code/best-of-digital-gardens) ⭐ 588 | 🐛 1 | 🌐 Shell | 📅 2026-08-12
+* [Obsidian Digital Garden - Showcases](https://github.com/oleeskild/obsidian-digital-garden/issues/55) ⭐ 2,459 | 🐛 216 | 🌐 TypeScript | 📅 2026-08-10
+* [Awesome list of Digital gardens - lyz-code](https://github.com/lyz-code/best-of-digital-gardens) ⭐ 588 | 🐛 1 | 🌐 Shell | 📅 2026-08-13
 * [Quartz - Showcases](https://quartz.jzhao.xyz/showcase)
 
 Feel free to explore and contribute to these awesome resources!
@@ -230,4 +230,4 @@ Linked vaults remain under their respective owners' licenses.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-13._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-14._
