@@ -1,7 +1,7 @@
 # Awesome List of Obsidian vaults with stars
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-[![Link Check](https://github.com/obsidian-pkm-vault/awesome-obsidian-vault/actions/workflows/links.yml/badge.svg)](https://github.com/obsidian-pkm-vault/awesome-obsidian-vault/actions/workflows/links.yml) ⭐ 501 | 🐛 1 | 📅 2026-08-10
+[![Link Check](https://github.com/obsidian-pkm-vault/awesome-obsidian-vault/actions/workflows/links.yml/badge.svg)](https://github.com/obsidian-pkm-vault/awesome-obsidian-vault/actions/workflows/links.yml) ⭐ 501 | 🐛 0 | 📅 2026-08-10
 [![License: CC0-1.0](https://img.shields.io/badge/License-CC0%201.0-lightgrey.svg)](LICENSE)
 
 > \[!NOTE]
@@ -191,7 +191,7 @@ A curated list of awesome resources, templates, guides for developers, digital g
 
 ## Encyclopedia Resources (5)
 
-* [Project N.O.M.A.D.](https://github.com/crosstalk-solutions/project-nomad) ⭐ 35,822 | 🐛 81 | 🌐 TypeScript | 📅 2026-08-14. Bundles Kiwix, a local AI assistant (Ollama + Qdrant), Kolibri courses, ProtoMaps, CyberChef, and FlatNotes.
+* [Project N.O.M.A.D.](https://github.com/crosstalk-solutions/project-nomad) ⭐ 35,855 | 🐛 81 | 🌐 TypeScript | 📅 2026-08-14. Bundles Kiwix, a local AI assistant (Ollama + Qdrant), Kolibri courses, ProtoMaps, CyberChef, and FlatNotes.
 * Wikipedia from itkach: [wiki](https://github.com/itkach/slob/wiki/Wikipedia) ⭐ 294 | 🐛 1 | 🌐 Python | 📅 2026-05-09
 * Wikis and Dicts from itkach: [wiki](https://github.com/itkach/slob/wiki/Other-projects) ⭐ 294 | 🐛 1 | 🌐 Python | 📅 2026-05-09
 * Kiwix Library (wikis offline under .zim): [library](https://library.kiwix.org/#lang=eng)
@@ -205,14 +205,14 @@ A curated list of awesome resources, templates, guides for developers, digital g
 ## Cheat Sheets and Miscellaneous (2)
 
 * Anki Shared Decks: [vault](https://ankiweb.net/shared/decks/)
-* Cheatsheets from rstacruz: [vault](https://github.com/rstacruz/cheatsheets) ⭐ 14,455 | 🐛 929 | 🌐 SCSS | 📅 2026-08-08
+* Cheatsheets from rstacruz: [vault](https://github.com/rstacruz/cheatsheets) ⭐ 14,458 | 🐛 929 | 🌐 SCSS | 📅 2026-08-08
 
 ***
 
 ## List of Showcases (3)
 
-* [Obsidian Digital Garden - Showcases](https://github.com/oleeskild/obsidian-digital-garden/issues/55) ⭐ 2,465 | 🐛 216 | 🌐 TypeScript | 📅 2026-08-10
-* [Awesome list of Digital gardens - lyz-code](https://github.com/lyz-code/best-of-digital-gardens) ⭐ 588 | 🐛 1 | 🌐 Shell | 📅 2026-08-15
+* [Obsidian Digital Garden - Showcases](https://github.com/oleeskild/obsidian-digital-garden/issues/55) ⭐ 2,466 | 🐛 216 | 🌐 TypeScript | 📅 2026-08-10
+* [Awesome list of Digital gardens - lyz-code](https://github.com/lyz-code/best-of-digital-gardens) ⭐ 588 | 🐛 1 | 🌐 Shell | 📅 2026-08-16
 * [Quartz - Showcases](https://quartz.jzhao.xyz/showcase)
 
 Feel free to explore and contribute to these awesome resources!
@@ -221,7 +221,7 @@ Feel free to explore and contribute to these awesome resources!
 
 Contributions are welcome! See [CONTRIBUTING.md](CONTRIBUTING.md) for how to
 suggest a vault, the formatting rules, and the criteria for the ✨ mark. The
-quickest way is to [open a "Suggest a vault" issue](https://github.com/obsidian-pkm-vault/awesome-obsidian-vault/issues/new/choose) ⭐ 501 | 🐛 1 | 📅 2026-08-10.
+quickest way is to [open a "Suggest a vault" issue](https://github.com/obsidian-pkm-vault/awesome-obsidian-vault/issues/new/choose) ⭐ 501 | 🐛 0 | 📅 2026-08-10.
 
 ## License
 
@@ -230,4 +230,4 @@ Linked vaults remain under their respective owners' licenses.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-16._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-17._
