@@ -12,10 +12,10 @@
             "archived": false,
             "id": 1007827531,
             "language": "TypeScript",
-            "last_commit": "2026-08-18T19:52:19Z",
+            "last_commit": "2026-08-19T15:39:49Z",
             "owner": "Crosstalk-Solutions",
             "repo": "project-nomad",
-            "stars": 35988
+            "stars": 36015
           }
         },
         {
@@ -102,7 +102,7 @@
             "last_commit": "2026-08-10T19:52:44Z",
             "owner": "oleeskild",
             "repo": "obsidian-digital-garden",
-            "stars": 2468
+            "stars": 2471
           }
         },
         {
@@ -114,10 +114,10 @@
             "archived": false,
             "id": 484127372,
             "language": "Shell",
-            "last_commit": "2026-08-18T18:51:51Z",
+            "last_commit": "2026-08-19T18:47:15Z",
             "owner": "lyz-code",
             "repo": "best-of-digital-gardens",
-            "stars": 589
+            "stars": 590
           }
         }
       ],
@@ -125,7 +125,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T12:43:38.199Z",
+    "last_updated": "2026-08-20T02:43:57.333Z",
     "original_repository": "obsidian-pkm-vault/awesome-obsidian-vault",
     "original_repository_id": 825523642,
     "original_repository_sha": "3a3830b48f2b04240e1b82f1ae792691bb3062c4",
