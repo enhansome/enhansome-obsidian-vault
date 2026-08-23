@@ -15,7 +15,7 @@
             "last_commit": "2026-08-19T15:39:49Z",
             "owner": "Crosstalk-Solutions",
             "repo": "project-nomad",
-            "stars": 36137
+            "stars": 36199
           }
         },
         {
@@ -114,10 +114,10 @@
             "archived": false,
             "id": 484127372,
             "language": "Shell",
-            "last_commit": "2026-08-21T18:49:03Z",
+            "last_commit": "2026-08-22T18:42:10Z",
             "owner": "lyz-code",
             "repo": "best-of-digital-gardens",
-            "stars": 591
+            "stars": 590
           }
         }
       ],
@@ -125,7 +125,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-22T02:41:01.100Z",
+    "last_updated": "2026-08-23T02:50:38.754Z",
     "original_repository": "obsidian-pkm-vault/awesome-obsidian-vault",
     "original_repository_id": 825523642,
     "original_repository_sha": "3a3830b48f2b04240e1b82f1ae792691bb3062c4",
