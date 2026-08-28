@@ -1,7 +1,7 @@
 # Awesome List of Obsidian vaults with stars
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-[![Link Check](https://github.com/obsidian-pkm-vault/awesome-obsidian-vault/actions/workflows/links.yml/badge.svg)](https://github.com/obsidian-pkm-vault/awesome-obsidian-vault/actions/workflows/links.yml) ⭐ 505 | 🐛 4 | 📅 2026-08-10
+[![Link Check](https://github.com/obsidian-pkm-vault/awesome-obsidian-vault/actions/workflows/links.yml/badge.svg)](https://github.com/obsidian-pkm-vault/awesome-obsidian-vault/actions/workflows/links.yml) ⭐ 507 | 🐛 1 | 📅 2026-08-27
 [![License: CC0-1.0](https://img.shields.io/badge/License-CC0%201.0-lightgrey.svg)](LICENSE)
 
 > \[!NOTE]
@@ -54,7 +54,7 @@ A curated list of awesome resources, templates, guides for developers, digital g
 </style>
 -->
 
-## Vaults and websites grouped by topic (52)
+## Vaults and websites grouped by topic (53)
 
 > \[!TIP]
 > ✨ marks a standout pick — a particularly polished, complete, or popular vault.
@@ -118,12 +118,13 @@ A curated list of awesome resources, templates, guides for developers, digital g
   </tbody>
   <tbody>
     <tr class="section-row">
-      <th rowspan="3" class="category-cell">Knowledge Bases &amp; Wiki Vaults</th>
+      <th rowspan="4" class="category-cell">Knowledge Bases &amp; Wiki Vaults</th>
       <td>KaaS — Jimbrig</td>
       <td><a href="https://github.com/jimbrig/KaaS">vault</a> / <a href="https://kaas.jimbrig.com/">web</a></td>
       <td></td>
     </tr>
     <tr><td>Knowledge — Nikitavoloboev</td><td><a href="https://github.com/nikitavoloboev/knowledge">vault</a> / <a href="https://nikiv.dev/">web</a></td><td></td></tr>
+    <tr><td>Ontology Engineering Curriculum — fabio-rovai</td><td><a href="https://github.com/fabio-rovai/ontology-curriculum/tree/main/vault">vault</a></td><td></td></tr>
     <tr><td>Yangming Mind OS — sunhaoyu-sawma</td><td><a href="https://github.com/sunhaoyu-sawma/Yangming-Mind-OS">vault</a> / <a href="https://sunhaoyu-sawma.github.io/Yangming-Mind-OS/">web</a></td><td></td></tr>
   </tbody>
   <tbody>
@@ -191,7 +192,7 @@ A curated list of awesome resources, templates, guides for developers, digital g
 
 ## Encyclopedia Resources (5)
 
-* [Project N.O.M.A.D.](https://github.com/crosstalk-solutions/project-nomad) ⭐ 36,333 | 🐛 84 | 🌐 TypeScript | 📅 2026-08-27. Bundles Kiwix, a local AI assistant (Ollama + Qdrant), Kolibri courses, ProtoMaps, CyberChef, and FlatNotes.
+* [Project N.O.M.A.D.](https://github.com/crosstalk-solutions/project-nomad) ⭐ 36,358 | 🐛 85 | 🌐 TypeScript | 📅 2026-08-28. Bundles Kiwix, a local AI assistant (Ollama + Qdrant), Kolibri courses, ProtoMaps, CyberChef, and FlatNotes.
 * Wikipedia from itkach: [wiki](https://github.com/itkach/slob/wiki/Wikipedia) ⭐ 294 | 🐛 1 | 🌐 Python | 📅 2026-05-09
 * Wikis and Dicts from itkach: [wiki](https://github.com/itkach/slob/wiki/Other-projects) ⭐ 294 | 🐛 1 | 🌐 Python | 📅 2026-05-09
 * Kiwix Library (wikis offline under .zim): [library](https://library.kiwix.org/#lang=eng)
@@ -205,14 +206,14 @@ A curated list of awesome resources, templates, guides for developers, digital g
 ## Cheat Sheets and Miscellaneous (2)
 
 * Anki Shared Decks: [vault](https://ankiweb.net/shared/decks/)
-* Cheatsheets from rstacruz: [vault](https://github.com/rstacruz/cheatsheets) ⭐ 14,456 | 🐛 928 | 🌐 SCSS | 📅 2026-08-25
+* Cheatsheets from rstacruz: [vault](https://github.com/rstacruz/cheatsheets) ⭐ 14,456 | 🐛 929 | 🌐 SCSS | 📅 2026-08-25
 
 ***
 
 ## List of Showcases (3)
 
-* [Obsidian Digital Garden - Showcases](https://github.com/oleeskild/obsidian-digital-garden/issues/55) ⭐ 2,478 | 🐛 217 | 🌐 TypeScript | 📅 2026-08-10
-* [Awesome list of Digital gardens - lyz-code](https://github.com/lyz-code/best-of-digital-gardens) ⭐ 590 | 🐛 1 | 🌐 Shell | 📅 2026-08-26
+* [Obsidian Digital Garden - Showcases](https://github.com/oleeskild/obsidian-digital-garden/issues/55) ⭐ 2,481 | 🐛 217 | 🌐 TypeScript | 📅 2026-08-10
+* [Awesome list of Digital gardens - lyz-code](https://github.com/lyz-code/best-of-digital-gardens) ⭐ 590 | 🐛 1 | 🌐 Shell | 📅 2026-08-28
 * [Quartz - Showcases](https://quartz.jzhao.xyz/showcase)
 
 Feel free to explore and contribute to these awesome resources!
@@ -221,7 +222,7 @@ Feel free to explore and contribute to these awesome resources!
 
 Contributions are welcome! See [CONTRIBUTING.md](CONTRIBUTING.md) for how to
 suggest a vault, the formatting rules, and the criteria for the ✨ mark. The
-quickest way is to [open a "Suggest a vault" issue](https://github.com/obsidian-pkm-vault/awesome-obsidian-vault/issues/new/choose) ⭐ 505 | 🐛 4 | 📅 2026-08-10.
+quickest way is to [open a "Suggest a vault" issue](https://github.com/obsidian-pkm-vault/awesome-obsidian-vault/issues/new/choose) ⭐ 507 | 🐛 1 | 📅 2026-08-27.
 
 ## License
 
@@ -230,4 +231,4 @@ Linked vaults remain under their respective owners' licenses.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-27._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-28._

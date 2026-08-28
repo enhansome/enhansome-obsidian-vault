@@ -12,11 +12,12 @@
             "archived": false,
             "id": 1007827531,
             "language": "TypeScript",
-            "last_commit": "2026-08-27T04:04:51Z",
+            "last_commit": "2026-08-28T00:27:55Z",
             "owner": "Crosstalk-Solutions",
             "repo": "project-nomad",
-            "stars": 36333
-          }
+            "stars": 36358
+          },
+          "first_seen": "2026-08-28T13:23:28.728Z"
         },
         {
           "node_type": "item",
@@ -31,7 +32,8 @@
             "owner": "itkach",
             "repo": "slob",
             "stars": 294
-          }
+          },
+          "first_seen": "2026-08-28T13:23:28.728Z"
         },
         {
           "node_type": "item",
@@ -46,7 +48,8 @@
             "owner": "itkach",
             "repo": "slob",
             "stars": 294
-          }
+          },
+          "first_seen": "2026-08-28T13:23:28.728Z"
         }
       ],
       "title": "Encyclopedia Resources (5)"
@@ -67,7 +70,8 @@
             "owner": "itkach",
             "repo": "slob",
             "stars": 294
-          }
+          },
+          "first_seen": "2026-08-28T13:23:28.728Z"
         },
         {
           "node_type": "item",
@@ -82,7 +86,8 @@
             "owner": "itkach",
             "repo": "slob",
             "stars": 294
-          }
+          },
+          "first_seen": "2026-08-28T13:23:28.728Z"
         }
       ],
       "title": "Dictionaries and Language Resources (2)"
@@ -102,8 +107,9 @@
             "last_commit": "2026-08-10T19:52:44Z",
             "owner": "oleeskild",
             "repo": "obsidian-digital-garden",
-            "stars": 2478
-          }
+            "stars": 2481
+          },
+          "first_seen": "2026-08-28T13:23:28.728Z"
         },
         {
           "node_type": "item",
@@ -114,28 +120,29 @@
             "archived": false,
             "id": 484127372,
             "language": "Shell",
-            "last_commit": "2026-08-26T19:57:00Z",
+            "last_commit": "2026-08-28T02:11:08Z",
             "owner": "lyz-code",
             "repo": "best-of-digital-gardens",
             "stars": 590
-          }
+          },
+          "first_seen": "2026-08-28T13:23:28.728Z"
         }
       ],
       "title": "List of Showcases (3)"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T12:15:09.454Z",
+    "last_updated": "2026-08-28T13:23:28.728Z",
     "original_repository_info": {
       "archived": false,
       "id": 825523642,
       "language": null,
-      "last_commit": "2026-08-10T13:22:54Z",
+      "last_commit": "2026-08-27T23:16:39Z",
       "owner": "obsidian-pkm-vault",
       "repo": "awesome-obsidian-vault",
-      "stars": 505
+      "stars": 507
     },
-    "original_repository_sha": "3a3830b48f2b04240e1b82f1ae792691bb3062c4",
+    "original_repository_sha": "c57478c98840c419d6d7f002a9f7b5a957027f98",
     "enhanced_repository": "enhansome/enhansome-obsidian-vault",
     "enhanced_repository_description": null,
     "title": "Awesome List of Obsidian vaults with stars"
