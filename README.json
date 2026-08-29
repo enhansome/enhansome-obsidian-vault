@@ -10,12 +10,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Project NOMAD is an offline-first knowledge and education server. Wikipedia, thousands of books, courses, maps, and optional local AI, all running on hardware you own with no internet required.",
+            "homepage": "https://www.projectnomad.us",
             "id": 1007827531,
             "language": "TypeScript",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-28T00:27:55Z",
+            "open_issues": 86,
             "owner": "Crosstalk-Solutions",
             "repo": "project-nomad",
-            "stars": 36358
+            "stars": 36366,
+            "topics": []
           },
           "first_seen": "2026-08-28T13:23:28.728Z"
         },
@@ -26,12 +31,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Data store for Aard 2",
+            "homepage": null,
             "id": 16049399,
             "language": "Python",
+            "license": "GPL-3.0",
             "last_commit": "2026-05-09T18:01:32Z",
+            "open_issues": 1,
             "owner": "itkach",
             "repo": "slob",
-            "stars": 294
+            "stars": 294,
+            "topics": []
           },
           "first_seen": "2026-08-28T13:23:28.728Z"
         },
@@ -42,12 +52,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Data store for Aard 2",
+            "homepage": null,
             "id": 16049399,
             "language": "Python",
+            "license": "GPL-3.0",
             "last_commit": "2026-05-09T18:01:32Z",
+            "open_issues": 1,
             "owner": "itkach",
             "repo": "slob",
-            "stars": 294
+            "stars": 294,
+            "topics": []
           },
           "first_seen": "2026-08-28T13:23:28.728Z"
         }
@@ -64,12 +79,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Data store for Aard 2",
+            "homepage": null,
             "id": 16049399,
             "language": "Python",
+            "license": "GPL-3.0",
             "last_commit": "2026-05-09T18:01:32Z",
+            "open_issues": 1,
             "owner": "itkach",
             "repo": "slob",
-            "stars": 294
+            "stars": 294,
+            "topics": []
           },
           "first_seen": "2026-08-28T13:23:28.728Z"
         },
@@ -80,12 +100,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Data store for Aard 2",
+            "homepage": null,
             "id": 16049399,
             "language": "Python",
+            "license": "GPL-3.0",
             "last_commit": "2026-05-09T18:01:32Z",
+            "open_issues": 1,
             "owner": "itkach",
             "repo": "slob",
-            "stars": 294
+            "stars": 294,
+            "topics": []
           },
           "first_seen": "2026-08-28T13:23:28.728Z"
         }
@@ -102,12 +127,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 459278150,
             "language": "TypeScript",
-            "last_commit": "2026-08-10T19:52:44Z",
+            "license": "MIT",
+            "last_commit": "2026-08-28T22:10:40Z",
+            "open_issues": 217,
             "owner": "oleeskild",
             "repo": "obsidian-digital-garden",
-            "stars": 2481
+            "stars": 2481,
+            "topics": []
           },
           "first_seen": "2026-08-28T13:23:28.728Z"
         },
@@ -118,12 +148,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Ranked list of awesome digital gardens / second brains",
+            "homepage": null,
             "id": 484127372,
             "language": "Shell",
-            "last_commit": "2026-08-28T02:11:08Z",
+            "license": "CC-BY-SA-4.0",
+            "last_commit": "2026-08-29T01:43:38Z",
+            "open_issues": 1,
             "owner": "lyz-code",
             "repo": "best-of-digital-gardens",
-            "stars": 590
+            "stars": 590,
+            "topics": []
           },
           "first_seen": "2026-08-28T13:23:28.728Z"
         }
@@ -132,15 +167,26 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T13:23:28.728Z",
+    "last_updated": "2026-08-29T04:48:11.131Z",
     "original_repository_info": {
       "archived": false,
+      "description": "Awesome list of obsidian vaults",
+      "homepage": null,
       "id": 825523642,
       "language": null,
+      "license": "CC0-1.0",
       "last_commit": "2026-08-27T23:16:39Z",
+      "open_issues": 1,
       "owner": "obsidian-pkm-vault",
       "repo": "awesome-obsidian-vault",
-      "stars": 507
+      "stars": 507,
+      "topics": [
+        "awesome-list",
+        "knowledge",
+        "obsidian",
+        "obsidian-vault",
+        "resources"
+      ]
     },
     "original_repository_sha": "c57478c98840c419d6d7f002a9f7b5a957027f98",
     "enhanced_repository": "enhansome/enhansome-obsidian-vault",
