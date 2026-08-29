@@ -19,7 +19,7 @@
             "open_issues": 86,
             "owner": "Crosstalk-Solutions",
             "repo": "project-nomad",
-            "stars": 36366,
+            "stars": 36367,
             "topics": []
           },
           "first_seen": "2026-08-28T13:23:28.728Z"
@@ -167,7 +167,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T04:48:11.131Z",
+    "last_updated": "2026-08-29T08:18:53.052Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome list of obsidian vaults",

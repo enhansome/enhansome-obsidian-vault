@@ -192,7 +192,7 @@ A curated list of awesome resources, templates, guides for developers, digital g
 
 ## Encyclopedia Resources (5)
 
-* [Project N.O.M.A.D.](https://github.com/crosstalk-solutions/project-nomad) ⭐ 36,366 | 🐛 86 | 🌐 TypeScript | 📅 2026-08-28. Bundles Kiwix, a local AI assistant (Ollama + Qdrant), Kolibri courses, ProtoMaps, CyberChef, and FlatNotes.
+* [Project N.O.M.A.D.](https://github.com/crosstalk-solutions/project-nomad) ⭐ 36,367 | 🐛 86 | 🌐 TypeScript | 📅 2026-08-28. Bundles Kiwix, a local AI assistant (Ollama + Qdrant), Kolibri courses, ProtoMaps, CyberChef, and FlatNotes.
 * Wikipedia from itkach: [wiki](https://github.com/itkach/slob/wiki/Wikipedia) ⭐ 294 | 🐛 1 | 🌐 Python | 📅 2026-05-09
 * Wikis and Dicts from itkach: [wiki](https://github.com/itkach/slob/wiki/Other-projects) ⭐ 294 | 🐛 1 | 🌐 Python | 📅 2026-05-09
 * Kiwix Library (wikis offline under .zim): [library](https://library.kiwix.org/#lang=eng)
