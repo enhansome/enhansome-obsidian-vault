@@ -15,11 +15,11 @@
             "id": 1007827531,
             "language": "TypeScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-01T15:51:26Z",
-            "open_issues": 90,
+            "last_commit": "2026-09-03T00:06:28Z",
+            "open_issues": 85,
             "owner": "Crosstalk-Solutions",
             "repo": "project-nomad",
-            "stars": 36451,
+            "stars": 36472,
             "topics": []
           },
           "first_seen": "2026-08-28T13:23:28.728Z"
@@ -132,7 +132,7 @@
             "id": 459278150,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-08-30T21:11:02Z",
+            "last_commit": "2026-09-02T20:36:16Z",
             "open_issues": 216,
             "owner": "oleeskild",
             "repo": "obsidian-digital-garden",
@@ -153,7 +153,7 @@
             "id": 484127372,
             "language": "Shell",
             "license": "CC-BY-SA-4.0",
-            "last_commit": "2026-09-01T20:58:04Z",
+            "last_commit": "2026-09-02T20:57:26Z",
             "open_issues": 1,
             "owner": "lyz-code",
             "repo": "best-of-digital-gardens",
@@ -167,7 +167,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-02T06:27:15.202Z",
+    "last_updated": "2026-09-03T06:30:49.821Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome list of obsidian vaults",
