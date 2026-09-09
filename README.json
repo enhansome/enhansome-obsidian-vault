@@ -15,11 +15,11 @@
             "id": 1007827531,
             "language": "TypeScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-05T19:17:48Z",
-            "open_issues": 91,
+            "last_commit": "2026-09-09T01:26:51Z",
+            "open_issues": 89,
             "owner": "Crosstalk-Solutions",
             "repo": "project-nomad",
-            "stars": 36582,
+            "stars": 36599,
             "topics": []
           },
           "first_seen": "2026-08-28T13:23:28.728Z"
@@ -132,11 +132,11 @@
             "id": 459278150,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-03T20:05:06Z",
+            "last_commit": "2026-09-08T17:54:03Z",
             "open_issues": 216,
             "owner": "oleeskild",
             "repo": "obsidian-digital-garden",
-            "stars": 2491,
+            "stars": 2493,
             "topics": []
           },
           "first_seen": "2026-08-28T13:23:28.728Z"
@@ -153,11 +153,11 @@
             "id": 484127372,
             "language": "Shell",
             "license": "CC-BY-SA-4.0",
-            "last_commit": "2026-09-07T21:27:30Z",
-            "open_issues": 1,
+            "last_commit": "2026-09-08T21:04:43Z",
+            "open_issues": 2,
             "owner": "lyz-code",
             "repo": "best-of-digital-gardens",
-            "stars": 590,
+            "stars": 591,
             "topics": []
           },
           "first_seen": "2026-08-28T13:23:28.728Z"
@@ -167,7 +167,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-08T06:33:24.022Z",
+    "last_updated": "2026-09-09T06:45:36.255Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome list of obsidian vaults",
@@ -179,7 +179,7 @@
       "open_issues": 3,
       "owner": "obsidian-pkm-vault",
       "repo": "awesome-obsidian-vault",
-      "stars": 516,
+      "stars": 517,
       "topics": [
         "awesome-list",
         "knowledge",
