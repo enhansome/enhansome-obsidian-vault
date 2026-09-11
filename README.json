@@ -15,11 +15,11 @@
             "id": 1007827531,
             "language": "TypeScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-09T01:26:51Z",
-            "open_issues": 89,
+            "last_commit": "2026-09-11T02:19:25Z",
+            "open_issues": 94,
             "owner": "Crosstalk-Solutions",
             "repo": "project-nomad",
-            "stars": 36618,
+            "stars": 36641,
             "topics": []
           },
           "first_seen": "2026-08-28T13:23:28.728Z"
@@ -40,7 +40,7 @@
             "open_issues": 1,
             "owner": "itkach",
             "repo": "slob",
-            "stars": 296,
+            "stars": 298,
             "topics": []
           },
           "first_seen": "2026-08-28T13:23:28.728Z"
@@ -61,7 +61,7 @@
             "open_issues": 1,
             "owner": "itkach",
             "repo": "slob",
-            "stars": 296,
+            "stars": 298,
             "topics": []
           },
           "first_seen": "2026-08-28T13:23:28.728Z"
@@ -88,7 +88,7 @@
             "open_issues": 1,
             "owner": "itkach",
             "repo": "slob",
-            "stars": 296,
+            "stars": 298,
             "topics": []
           },
           "first_seen": "2026-08-28T13:23:28.728Z"
@@ -109,7 +109,7 @@
             "open_issues": 1,
             "owner": "itkach",
             "repo": "slob",
-            "stars": 296,
+            "stars": 298,
             "topics": []
           },
           "first_seen": "2026-08-28T13:23:28.728Z"
@@ -132,8 +132,8 @@
             "id": 459278150,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-08T17:54:03Z",
-            "open_issues": 217,
+            "last_commit": "2026-09-10T10:04:39Z",
+            "open_issues": 216,
             "owner": "oleeskild",
             "repo": "obsidian-digital-garden",
             "stars": 2495,
@@ -153,7 +153,7 @@
             "id": 484127372,
             "language": "Shell",
             "license": "CC-BY-SA-4.0",
-            "last_commit": "2026-09-09T20:52:27Z",
+            "last_commit": "2026-09-10T20:47:14Z",
             "open_issues": 2,
             "owner": "lyz-code",
             "repo": "best-of-digital-gardens",
@@ -167,7 +167,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-10T06:39:36.541Z",
+    "last_updated": "2026-09-11T06:38:59.073Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome list of obsidian vaults",
