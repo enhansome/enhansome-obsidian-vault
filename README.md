@@ -1,7 +1,7 @@
 # Awesome List of Obsidian vaults with stars
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-[![Link Check](https://github.com/obsidian-pkm-vault/awesome-obsidian-vault/actions/workflows/links.yml/badge.svg)](https://github.com/obsidian-pkm-vault/awesome-obsidian-vault/actions/workflows/links.yml) ⭐ 521 | 🐛 5 | 📅 2026-08-27
+[![Link Check](https://github.com/obsidian-pkm-vault/awesome-obsidian-vault/actions/workflows/links.yml/badge.svg)](https://github.com/obsidian-pkm-vault/awesome-obsidian-vault/actions/workflows/links.yml) ⭐ 522 | 🐛 0 | 📅 2026-09-16
 [![License: CC0-1.0](https://img.shields.io/badge/License-CC0%201.0-lightgrey.svg)](LICENSE)
 
 > \[!NOTE]
@@ -84,7 +84,7 @@ A curated list of awesome resources, templates, guides for developers, digital g
   </tbody>
   <tbody>
     <tr class="section-row">
-      <th rowspan="10" class="category-cell">Documentation &amp; Knowledge</th>
+      <th rowspan="9" class="category-cell">Documentation &amp; Knowledge</th>
       <td>Blue Book — lyz-code</td>
       <td><a href="https://github.com/lyz-code/blue-book">vault</a> / <a href="https://lyz-code.github.io/blue-book/">web</a></td>
       <td></td>
@@ -93,7 +93,6 @@ A curated list of awesome resources, templates, guides for developers, digital g
     <tr><td>Digital Garden Docs — oleeskild</td><td><a href="https://github.com/oleeskild/digitalgardendocs">vault</a> / <a href="https://dg-docs.ole.dev/">web</a></td><td></td></tr>
     <tr><td>Documentation — Rico Sta. Cruz</td><td><a href="https://github.com/rstacruz/cheatsheets/tree/master#documentation">vault</a> / <a href="https://devhints.io/">web</a></td><td></td></tr>
     <tr><td>Gatekeeperwiki Game — Gravity Lagoon</td><td><a href="https://github.com/Mondrethos/gatekeeperwiki">vault</a> / <a href="https://www.gatekeeper.wiki/">web</a></td><td></td></tr>
-    <tr><td>Intersect — rknightuk</td><td><a href="https://github.com/rknightuk/intersect">vault</a> / <a href="https://intersect.rknight.me/">web</a></td><td></td></tr>
     <tr><td>Kepano Obsidian</td><td><a href="https://github.com/kepano/kepano-obsidian">vault</a> / <a href="https://stephango.com/vault">web</a></td><td>✨</td></tr>
     <tr><td>Obsidian Hub</td><td><a href="https://github.com/obsidian-community/obsidian-hub">vault</a> / <a href="https://publish.obsidian.md/hub/00+-+Start+here">web</a></td><td>✨</td></tr>
     <tr><td>Obsidian Icewind — Shervinsahba</td><td><a href="https://github.com/shervinsahba/obsidian-icewind">vault</a> / <a href="https://icewind.quest/">web</a></td><td>✨</td></tr>
@@ -159,12 +158,13 @@ A curated list of awesome resources, templates, guides for developers, digital g
   </tbody>
   <tbody>
     <tr class="section-row">
-      <th rowspan="3" class="category-cell">Sample Vaults &amp; Templates</th>
+      <th rowspan="4" class="category-cell">Sample Vaults &amp; Templates</th>
       <td>Ideaverse — LYT (Nick Milo)</td>
       <td><a href="https://www.linkingyourthinking.com/ideaverse-for-obsidian/onboarding-ideaverse">web</a></td>
       <td></td>
     </tr>
     <tr><td>Second Brain Starter — secondbrainstarter</td><td><a href="https://github.com/secondbrainstarter/second-brain-starter">vault</a> / <a href="https://secondbrainstarter.github.io/">web</a></td><td></td></tr>
+    <tr><td>Self-Knowledge Vault — Tanudai</td><td><a href="https://github.com/tanudai/obsidian-self-knowledge-vault">vault</a> / <a href="https://astrodai.in/obsidian/">web</a></td><td></td></tr>
     <tr><td>Undercroft — Latticework Labs</td><td><a href="https://github.com/latticeworklabs-eng/undercroft">vault</a></td><td></td></tr>
   </tbody>
   <tbody>
@@ -192,7 +192,7 @@ A curated list of awesome resources, templates, guides for developers, digital g
 
 ## Encyclopedia Resources (5)
 
-* [Project N.O.M.A.D.](https://github.com/crosstalk-solutions/project-nomad) ⭐ 37,165 | 🐛 93 | 🌐 TypeScript | 📅 2026-09-13. Bundles Kiwix, a local AI assistant (Ollama + Qdrant), Kolibri courses, ProtoMaps, CyberChef, and FlatNotes.
+* [Project N.O.M.A.D.](https://github.com/crosstalk-solutions/project-nomad) ⭐ 37,263 | 🐛 93 | 🌐 TypeScript | 📅 2026-09-13. Bundles Kiwix, a local AI assistant (Ollama + Qdrant), Kolibri courses, ProtoMaps, CyberChef, and FlatNotes.
 * Wikipedia from itkach: [wiki](https://github.com/itkach/slob/wiki/Wikipedia) ⭐ 300 | 🐛 1 | 🌐 Python | 📅 2026-05-09
 * Wikis and Dicts from itkach: [wiki](https://github.com/itkach/slob/wiki/Other-projects) ⭐ 300 | 🐛 1 | 🌐 Python | 📅 2026-05-09
 * Kiwix Library (wikis offline under .zim): [library](https://library.kiwix.org/#lang=eng)
@@ -206,14 +206,14 @@ A curated list of awesome resources, templates, guides for developers, digital g
 ## Cheat Sheets and Miscellaneous (2)
 
 * Anki Shared Decks: [vault](https://ankiweb.net/shared/decks/)
-* Cheatsheets from rstacruz: [vault](https://github.com/rstacruz/cheatsheets) ⭐ 14,458 | 🐛 931 | 🌐 SCSS | 📅 2026-08-25
+* Cheatsheets from rstacruz: [vault](https://github.com/rstacruz/cheatsheets) ⭐ 14,457 | 🐛 931 | 🌐 SCSS | 📅 2026-08-25
 
 ***
 
 ## List of Showcases (3)
 
 * [Obsidian Digital Garden - Showcases](https://github.com/oleeskild/obsidian-digital-garden/issues/55) ⭐ 2,500 | 🐛 217 | 🌐 TypeScript | 📅 2026-09-11
-* [Awesome list of Digital gardens - lyz-code](https://github.com/lyz-code/best-of-digital-gardens) ⭐ 593 | 🐛 2 | 🌐 Shell | 📅 2026-09-15
+* [Awesome list of Digital gardens - lyz-code](https://github.com/lyz-code/best-of-digital-gardens) ⭐ 592 | 🐛 2 | 🌐 Shell | 📅 2026-09-16
 * [Quartz - Showcases](https://quartz.jzhao.xyz/showcase)
 
 Feel free to explore and contribute to these awesome resources!
@@ -222,7 +222,7 @@ Feel free to explore and contribute to these awesome resources!
 
 Contributions are welcome! See [CONTRIBUTING.md](CONTRIBUTING.md) for how to
 suggest a vault, the formatting rules, and the criteria for the ✨ mark. The
-quickest way is to [open a "Suggest a vault" issue](https://github.com/obsidian-pkm-vault/awesome-obsidian-vault/issues/new/choose) ⭐ 521 | 🐛 5 | 📅 2026-08-27.
+quickest way is to [open a "Suggest a vault" issue](https://github.com/obsidian-pkm-vault/awesome-obsidian-vault/issues/new/choose) ⭐ 522 | 🐛 0 | 📅 2026-09-16.
 
 ## License
 
@@ -231,4 +231,4 @@ Linked vaults remain under their respective owners' licenses.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-16._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-17._
