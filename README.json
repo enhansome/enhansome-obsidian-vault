@@ -19,7 +19,7 @@
             "open_issues": 96,
             "owner": "Crosstalk-Solutions",
             "repo": "project-nomad",
-            "stars": 37152,
+            "stars": 37174,
             "topics": []
           },
           "first_seen": "2026-08-28T13:23:28.728Z"
@@ -153,7 +153,7 @@
             "id": 484127372,
             "language": "Shell",
             "license": "CC-BY-SA-4.0",
-            "last_commit": "2026-09-18T20:49:42Z",
+            "last_commit": "2026-09-19T20:30:30Z",
             "open_issues": 2,
             "owner": "lyz-code",
             "repo": "best-of-digital-gardens",
@@ -167,7 +167,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-19T06:41:18.920Z",
+    "last_updated": "2026-09-20T07:04:42.677Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome list of obsidian vaults",
