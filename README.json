@@ -16,10 +16,10 @@
             "language": "TypeScript",
             "license": "Apache-2.0",
             "last_commit": "2026-09-25T20:15:37Z",
-            "open_issues": 96,
+            "open_issues": 100,
             "owner": "Crosstalk-Solutions",
             "repo": "project-nomad",
-            "stars": 38468,
+            "stars": 38531,
             "topics": []
           },
           "first_seen": "2026-08-28T13:23:28.728Z"
@@ -153,11 +153,11 @@
             "id": 484127372,
             "language": "Shell",
             "license": "CC-BY-SA-4.0",
-            "last_commit": "2026-09-25T21:28:34Z",
+            "last_commit": "2026-09-26T21:00:32Z",
             "open_issues": 2,
             "owner": "lyz-code",
             "repo": "best-of-digital-gardens",
-            "stars": 594,
+            "stars": 595,
             "topics": []
           },
           "first_seen": "2026-08-28T13:23:28.728Z"
@@ -167,7 +167,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-26T06:39:54.182Z",
+    "last_updated": "2026-09-27T07:07:42.764Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome list of obsidian vaults",
@@ -179,7 +179,7 @@
       "open_issues": 0,
       "owner": "obsidian-pkm-vault",
       "repo": "awesome-obsidian-vault",
-      "stars": 526,
+      "stars": 527,
       "topics": [
         "awesome-list",
         "knowledge",
