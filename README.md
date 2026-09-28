@@ -192,7 +192,7 @@ A curated list of awesome resources, templates, guides for developers, digital g
 
 ## Encyclopedia Resources (5)
 
-* [Project N.O.M.A.D.](https://github.com/crosstalk-solutions/project-nomad) ⭐ 38,531 | 🐛 100 | 🌐 TypeScript | 📅 2026-09-25. Bundles Kiwix, a local AI assistant (Ollama + Qdrant), Kolibri courses, ProtoMaps, CyberChef, and FlatNotes.
+* [Project N.O.M.A.D.](https://github.com/crosstalk-solutions/project-nomad) ⭐ 38,612 | 🐛 104 | 🌐 TypeScript | 📅 2026-09-25. Bundles Kiwix, a local AI assistant (Ollama + Qdrant), Kolibri courses, ProtoMaps, CyberChef, and FlatNotes.
 * Wikipedia from itkach: [wiki](https://github.com/itkach/slob/wiki/Wikipedia) ⭐ 300 | 🐛 1 | 🌐 Python | 📅 2026-05-09
 * Wikis and Dicts from itkach: [wiki](https://github.com/itkach/slob/wiki/Other-projects) ⭐ 300 | 🐛 1 | 🌐 Python | 📅 2026-05-09
 * Kiwix Library (wikis offline under .zim): [library](https://library.kiwix.org/#lang=eng)
@@ -212,8 +212,8 @@ A curated list of awesome resources, templates, guides for developers, digital g
 
 ## List of Showcases (3)
 
-* [Obsidian Digital Garden - Showcases](https://github.com/oleeskild/obsidian-digital-garden/issues/55) ⭐ 2,506 | 🐛 218 | 🌐 TypeScript | 📅 2026-09-11
-* [Awesome list of Digital gardens - lyz-code](https://github.com/lyz-code/best-of-digital-gardens) ⭐ 595 | 🐛 2 | 🌐 Shell | 📅 2026-09-26
+* [Obsidian Digital Garden - Showcases](https://github.com/oleeskild/obsidian-digital-garden/issues/55) ⭐ 2,507 | 🐛 218 | 🌐 TypeScript | 📅 2026-09-11
+* [Awesome list of Digital gardens - lyz-code](https://github.com/lyz-code/best-of-digital-gardens) ⭐ 595 | 🐛 2 | 🌐 Shell | 📅 2026-09-27
 * [Quartz - Showcases](https://quartz.jzhao.xyz/showcase)
 
 Feel free to explore and contribute to these awesome resources!
@@ -231,4 +231,4 @@ Linked vaults remain under their respective owners' licenses.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-27._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-28._
