@@ -15,11 +15,11 @@
             "id": 1007827531,
             "language": "TypeScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-30T04:00:21Z",
-            "open_issues": 75,
+            "last_commit": "2026-10-02T22:13:45Z",
+            "open_issues": 82,
             "owner": "Crosstalk-Solutions",
             "repo": "project-nomad",
-            "stars": 38887,
+            "stars": 38920,
             "topics": []
           },
           "first_seen": "2026-08-28T13:23:28.728Z"
@@ -27,7 +27,7 @@
         {
           "node_type": "item",
           "title": "Wikipedia from itkach: wiki",
-          "description": null,
+          "description": "itkach/slob",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -40,7 +40,7 @@
             "open_issues": 1,
             "owner": "itkach",
             "repo": "slob",
-            "stars": 301,
+            "stars": 297,
             "topics": []
           },
           "first_seen": "2026-08-28T13:23:28.728Z"
@@ -48,7 +48,7 @@
         {
           "node_type": "item",
           "title": "Wikis and Dicts from itkach: wiki",
-          "description": null,
+          "description": "itkach/slob",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -61,7 +61,7 @@
             "open_issues": 1,
             "owner": "itkach",
             "repo": "slob",
-            "stars": 301,
+            "stars": 297,
             "topics": []
           },
           "first_seen": "2026-08-28T13:23:28.728Z"
@@ -75,7 +75,7 @@
         {
           "node_type": "item",
           "title": "Wiktionary and Wikibooks from itkach: wiki",
-          "description": null,
+          "description": "itkach/slob",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -88,7 +88,7 @@
             "open_issues": 1,
             "owner": "itkach",
             "repo": "slob",
-            "stars": 301,
+            "stars": 297,
             "topics": []
           },
           "first_seen": "2026-08-28T13:23:28.728Z"
@@ -96,7 +96,7 @@
         {
           "node_type": "item",
           "title": "Word Dictionaries (Wordnet and Freedict) from itkach: wiki",
-          "description": null,
+          "description": "itkach/slob",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -109,7 +109,7 @@
             "open_issues": 1,
             "owner": "itkach",
             "repo": "slob",
-            "stars": 301,
+            "stars": 297,
             "topics": []
           },
           "first_seen": "2026-08-28T13:23:28.728Z"
@@ -123,7 +123,7 @@
         {
           "node_type": "item",
           "title": "Obsidian Digital Garden - Showcases",
-          "description": null,
+          "description": "oleeskild/obsidian-digital-garden",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -132,11 +132,11 @@
             "id": 459278150,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-30T14:02:39Z",
+            "last_commit": "2026-10-02T12:20:06Z",
             "open_issues": 219,
             "owner": "oleeskild",
             "repo": "obsidian-digital-garden",
-            "stars": 2508,
+            "stars": 2509,
             "topics": []
           },
           "first_seen": "2026-08-28T13:23:28.728Z"
@@ -144,7 +144,7 @@
         {
           "node_type": "item",
           "title": "Awesome list of Digital gardens - lyz-code",
-          "description": null,
+          "description": "lyz-code/best-of-digital-gardens",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -153,7 +153,7 @@
             "id": 484127372,
             "language": "Shell",
             "license": "CC-BY-SA-4.0",
-            "last_commit": "2026-10-01T22:37:08Z",
+            "last_commit": "2026-10-02T22:07:10Z",
             "open_issues": 2,
             "owner": "lyz-code",
             "repo": "best-of-digital-gardens",
@@ -167,7 +167,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T07:33:00.792Z",
+    "last_updated": "2026-10-03T04:58:14.000Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome list of obsidian vaults",
@@ -179,7 +179,7 @@
       "open_issues": 1,
       "owner": "obsidian-pkm-vault",
       "repo": "awesome-obsidian-vault",
-      "stars": 527,
+      "stars": 525,
       "topics": [
         "awesome-list",
         "knowledge",
