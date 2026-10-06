@@ -192,7 +192,7 @@ A curated list of awesome resources, templates, guides for developers, digital g
 
 ## Encyclopedia Resources (5)
 
-* [Project N.O.M.A.D.](https://github.com/crosstalk-solutions/project-nomad) ⭐ 39,053 | 🐛 82 | 🌐 TypeScript | 📅 2026-10-02. Bundles Kiwix, a local AI assistant (Ollama + Qdrant), Kolibri courses, ProtoMaps, CyberChef, and FlatNotes.
+* [Project N.O.M.A.D.](https://github.com/crosstalk-solutions/project-nomad) ⭐ 39,122 | 🐛 80 | 🌐 TypeScript | 📅 2026-10-05. Bundles Kiwix, a local AI assistant (Ollama + Qdrant), Kolibri courses, ProtoMaps, CyberChef, and FlatNotes.
 * Wikipedia from itkach: [wiki](https://github.com/itkach/slob/wiki/Wikipedia) ⭐ 298 | 🐛 1 | 🌐 Python | 📅 2026-05-09
 * Wikis and Dicts from itkach: [wiki](https://github.com/itkach/slob/wiki/Other-projects) ⭐ 298 | 🐛 1 | 🌐 Python | 📅 2026-05-09
 * Kiwix Library (wikis offline under .zim): [library](https://library.kiwix.org/#lang=eng)
@@ -206,14 +206,14 @@ A curated list of awesome resources, templates, guides for developers, digital g
 ## Cheat Sheets and Miscellaneous (2)
 
 * Anki Shared Decks: [vault](https://ankiweb.net/shared/decks/)
-* Cheatsheets from rstacruz: [vault](https://github.com/rstacruz/cheatsheets) ⭐ 14,461 | 🐛 894 | 🌐 TypeScript | 📅 2026-10-04
+* Cheatsheets from rstacruz: [vault](https://github.com/rstacruz/cheatsheets) ⭐ 14,461 | 🐛 894 | 🌐 TypeScript | 📅 2026-10-06
 
 ***
 
 ## List of Showcases (3)
 
-* [Obsidian Digital Garden - Showcases](https://github.com/oleeskild/obsidian-digital-garden/issues/55) ⭐ 2,511 | 🐛 219 | 🌐 TypeScript | 📅 2026-10-04
-* [Awesome list of Digital gardens - lyz-code](https://github.com/lyz-code/best-of-digital-gardens) ⭐ 598 | 🐛 2 | 🌐 Shell | 📅 2026-10-04
+* [Obsidian Digital Garden - Showcases](https://github.com/oleeskild/obsidian-digital-garden/issues/55) ⭐ 2,512 | 🐛 219 | 🌐 TypeScript | 📅 2026-10-04
+* [Awesome list of Digital gardens - lyz-code](https://github.com/lyz-code/best-of-digital-gardens) ⭐ 598 | 🐛 2 | 🌐 Shell | 📅 2026-10-06
 * [Quartz - Showcases](https://quartz.jzhao.xyz/showcase)
 
 Feel free to explore and contribute to these awesome resources!
@@ -231,4 +231,4 @@ Linked vaults remain under their respective owners' licenses.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-05._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-06._
