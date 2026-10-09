@@ -15,11 +15,11 @@
             "id": 1007827531,
             "language": "TypeScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-07T23:36:39Z",
-            "open_issues": 73,
+            "last_commit": "2026-10-08T16:21:56Z",
+            "open_issues": 74,
             "owner": "Crosstalk-Solutions",
             "repo": "project-nomad",
-            "stars": 39269,
+            "stars": 39325,
             "topics": []
           },
           "first_seen": "2026-08-28T13:23:28.728Z"
@@ -136,7 +136,7 @@
             "open_issues": 219,
             "owner": "oleeskild",
             "repo": "obsidian-digital-garden",
-            "stars": 2512,
+            "stars": 2511,
             "topics": []
           },
           "first_seen": "2026-08-28T13:23:28.728Z"
@@ -153,8 +153,8 @@
             "id": 484127372,
             "language": "Shell",
             "license": "CC-BY-SA-4.0",
-            "last_commit": "2026-10-07T23:01:54Z",
-            "open_issues": 2,
+            "last_commit": "2026-10-08T23:15:30Z",
+            "open_issues": 3,
             "owner": "lyz-code",
             "repo": "best-of-digital-gardens",
             "stars": 599,
@@ -167,7 +167,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-08T08:01:11.613Z",
+    "last_updated": "2026-10-09T08:01:58.338Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome list of obsidian vaults",
@@ -176,10 +176,10 @@
       "language": null,
       "license": "CC0-1.0",
       "last_commit": "2026-09-16T21:39:38Z",
-      "open_issues": 1,
+      "open_issues": 2,
       "owner": "obsidian-pkm-vault",
       "repo": "awesome-obsidian-vault",
-      "stars": 525,
+      "stars": 526,
       "topics": [
         "awesome-list",
         "knowledge",
