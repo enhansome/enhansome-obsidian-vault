@@ -1,123 +1,6 @@
 {
   "items": [
     {
-      "description": null,
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Project N.O.M.A.D.",
-          "description": ". Bundles Kiwix, a local AI assistant (Ollama + Qdrant), Kolibri courses, ProtoMaps, CyberChef, and FlatNotes.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Project NOMAD is an offline-first knowledge and education server. Wikipedia, thousands of books, courses, maps, and optional local AI, all running on hardware you own with no internet required.",
-            "homepage": "https://www.projectnomad.us",
-            "id": 1007827531,
-            "language": "TypeScript",
-            "license": "Apache-2.0",
-            "last_commit": "2026-10-08T16:21:56Z",
-            "open_issues": 74,
-            "owner": "Crosstalk-Solutions",
-            "repo": "project-nomad",
-            "stars": 39325,
-            "topics": []
-          },
-          "first_seen": "2026-08-28T13:23:28.728Z"
-        },
-        {
-          "node_type": "item",
-          "title": "Wikipedia from itkach: wiki",
-          "description": "itkach/slob",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Data store for Aard 2",
-            "homepage": null,
-            "id": 16049399,
-            "language": "Python",
-            "license": "GPL-3.0",
-            "last_commit": "2026-05-09T18:01:32Z",
-            "open_issues": 1,
-            "owner": "itkach",
-            "repo": "slob",
-            "stars": 298,
-            "topics": []
-          },
-          "first_seen": "2026-08-28T13:23:28.728Z"
-        },
-        {
-          "node_type": "item",
-          "title": "Wikis and Dicts from itkach: wiki",
-          "description": "itkach/slob",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Data store for Aard 2",
-            "homepage": null,
-            "id": 16049399,
-            "language": "Python",
-            "license": "GPL-3.0",
-            "last_commit": "2026-05-09T18:01:32Z",
-            "open_issues": 1,
-            "owner": "itkach",
-            "repo": "slob",
-            "stars": 298,
-            "topics": []
-          },
-          "first_seen": "2026-08-28T13:23:28.728Z"
-        }
-      ],
-      "title": "Encyclopedia Resources (5)"
-    },
-    {
-      "description": null,
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Wiktionary and Wikibooks from itkach: wiki",
-          "description": "itkach/slob",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Data store for Aard 2",
-            "homepage": null,
-            "id": 16049399,
-            "language": "Python",
-            "license": "GPL-3.0",
-            "last_commit": "2026-05-09T18:01:32Z",
-            "open_issues": 1,
-            "owner": "itkach",
-            "repo": "slob",
-            "stars": 298,
-            "topics": []
-          },
-          "first_seen": "2026-08-28T13:23:28.728Z"
-        },
-        {
-          "node_type": "item",
-          "title": "Word Dictionaries (Wordnet and Freedict) from itkach: wiki",
-          "description": "itkach/slob",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Data store for Aard 2",
-            "homepage": null,
-            "id": 16049399,
-            "language": "Python",
-            "license": "GPL-3.0",
-            "last_commit": "2026-05-09T18:01:32Z",
-            "open_issues": 1,
-            "owner": "itkach",
-            "repo": "slob",
-            "stars": 298,
-            "topics": []
-          },
-          "first_seen": "2026-08-28T13:23:28.728Z"
-        }
-      ],
-      "title": "Dictionaries and Language Resources (2)"
-    },
-    {
       "description": "Feel free to explore and contribute to these awesome resources!",
       "items": [
         {
@@ -132,8 +15,8 @@
             "id": 459278150,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-04T16:23:11Z",
-            "open_issues": 219,
+            "last_commit": "2026-10-09T14:36:36Z",
+            "open_issues": 216,
             "owner": "oleeskild",
             "repo": "obsidian-digital-garden",
             "stars": 2511,
@@ -153,7 +36,7 @@
             "id": 484127372,
             "language": "Shell",
             "license": "CC-BY-SA-4.0",
-            "last_commit": "2026-10-08T23:15:30Z",
+            "last_commit": "2026-10-09T22:34:40Z",
             "open_issues": 3,
             "owner": "lyz-code",
             "repo": "best-of-digital-gardens",
@@ -167,16 +50,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-09T08:01:58.338Z",
+    "last_updated": "2026-10-10T07:45:47.214Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome list of obsidian vaults",
       "homepage": null,
       "id": 825523642,
-      "language": null,
+      "language": "JavaScript",
       "license": "CC0-1.0",
-      "last_commit": "2026-09-16T21:39:38Z",
-      "open_issues": 2,
+      "last_commit": "2026-10-09T22:58:11Z",
+      "open_issues": 1,
       "owner": "obsidian-pkm-vault",
       "repo": "awesome-obsidian-vault",
       "stars": 526,
@@ -188,7 +71,7 @@
         "resources"
       ]
     },
-    "original_repository_sha": "56ecaaf5dc77342ddd60e9046ed6a6fbcc29261a",
+    "original_repository_sha": "0b5aec58b9697e8d161d770396f5be8f1554f863",
     "enhanced_repository": "enhansome/enhansome-obsidian-vault",
     "enhanced_repository_description": null,
     "title": "Awesome List of Obsidian vaults with stars"

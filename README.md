@@ -7,57 +7,14 @@
 > \[!NOTE]
 > Not all of the vaults are fully compatible with Obsidian's Markdown syntax. Some of them come from static site generators, such as Hugo.
 
-A curated list of awesome resources, templates, guides for developers, digital gardeners, and learners as an obsidian vault (basically markdown format with assets) that can be download and use it offline.
+A curated list of awesome resources, templates, guides for developers, digital gardeners, and learners as an obsidian vault (basically markdown format with assets) that can be downloaded and used offline.
 
-<!--
-<style>
-  .vault-table {
-    border-collapse: collapse;
-    width: 100%;
-    table-layout: fixed;
-    border-bottom: 2px solid #d0d7de;
-  }
-
-  .vault-table th,
-  .vault-table td {
-    padding: 0.45rem 0.6rem;
-  }
-
-  .vault-table thead th {
-    text-align: left;
-  }
-
-  .vault-table .col-category {
-    width: 13rem;
-  }
-
-  .vault-table .col-name {
-    width: 16rem;
-  }
-
-  .vault-table .col-links {
-    width: 7rem;
-  }
-
-  .vault-table .col-star {
-    width: 3rem;
-  }
-
-  .vault-table .category-cell {
-    text-align: left;
-    width: 13rem;
-  }
-
-  .vault-table .section-row {
-    border-top: 2px solid #d0d7de;
-  }
-</style>
--->
-
-## Vaults and websites grouped by topic (53)
+## Vaults and websites grouped by topic (54)
 
 > \[!TIP]
 > ✨ marks a standout pick — a particularly polished, complete, or popular vault.
+
+<!-- VAULTS:START -->
 
 <table class="vault-table">
   <thead>
@@ -117,13 +74,14 @@ A curated list of awesome resources, templates, guides for developers, digital g
   </tbody>
   <tbody>
     <tr class="section-row">
-      <th rowspan="4" class="category-cell">Knowledge Bases &amp; Wiki Vaults</th>
+      <th rowspan="5" class="category-cell">Knowledge Bases &amp; Wiki Vaults</th>
       <td>KaaS — Jimbrig</td>
       <td><a href="https://github.com/jimbrig/KaaS">vault</a> / <a href="https://kaas.jimbrig.com/">web</a></td>
       <td></td>
     </tr>
     <tr><td>Knowledge — Nikitavoloboev</td><td><a href="https://github.com/nikitavoloboev/knowledge">vault</a> / <a href="https://nikiv.dev/">web</a></td><td></td></tr>
     <tr><td>Ontology Engineering Curriculum — fabio-rovai</td><td><a href="https://github.com/fabio-rovai/ontology-curriculum/tree/main/vault">vault</a></td><td></td></tr>
+    <tr><td>Podcast Wiki — HagaiHen</td><td><a href="https://github.com/HagaiHen/podcast-wiki">vault</a> / <a href="https://hagaihen.github.io/podcast-wiki/">web</a></td><td></td></tr>
     <tr><td>Yangming Mind OS — sunhaoyu-sawma</td><td><a href="https://github.com/sunhaoyu-sawma/Yangming-Mind-OS">vault</a> / <a href="https://sunhaoyu-sawma.github.io/Yangming-Mind-OS/">web</a></td><td></td></tr>
   </tbody>
   <tbody>
@@ -185,36 +143,63 @@ A curated list of awesome resources, templates, guides for developers, digital g
     <tr><td>Interneto — David7ce</td><td><a href="https://github.com/interneto/interneto.github.io">vault</a> / <a href="https://interneto.github.io/">web</a></td><td>✨</td></tr>
   </tbody>
 </table>
+<!-- VAULTS:END -->
 
 ***
 
 ## Resources (9)
 
-## Encyclopedia Resources (5)
+<!-- RESOURCES:START -->
 
-* [Project N.O.M.A.D.](https://github.com/crosstalk-solutions/project-nomad) ⭐ 39,325 | 🐛 74 | 🌐 TypeScript | 📅 2026-10-08. Bundles Kiwix, a local AI assistant (Ollama + Qdrant), Kolibri courses, ProtoMaps, CyberChef, and FlatNotes.
-* Wikipedia from itkach: [wiki](https://github.com/itkach/slob/wiki/Wikipedia) ⭐ 298 | 🐛 1 | 🌐 Python | 📅 2026-05-09
-* Wikis and Dicts from itkach: [wiki](https://github.com/itkach/slob/wiki/Other-projects) ⭐ 298 | 🐛 1 | 🌐 Python | 📅 2026-05-09
-* Kiwix Library (wikis offline under .zim): [library](https://library.kiwix.org/#lang=eng)
-* Wikimedia Dumps: [static HTML Dumps](https://dumps.wikimedia.org/other/static_html_dumps/)
-
-## Dictionaries and Language Resources (2)
-
-* Wiktionary and Wikibooks from itkach: [wiki](https://github.com/itkach/slob/wiki/Wiktionary-and-Wikibooks) ⭐ 298 | 🐛 1 | 🌐 Python | 📅 2026-05-09
-* Word Dictionaries (Wordnet and Freedict) from itkach: [wiki](https://github.com/itkach/slob/wiki/Word-dictionaries-\(Wordnet-and-Freedict\)) ⭐ 298 | 🐛 1 | 🌐 Python | 📅 2026-05-09
-
-## Cheat Sheets and Miscellaneous (2)
-
-* Anki Shared Decks: [vault](https://ankiweb.net/shared/decks/)
-* Cheatsheets from rstacruz: [vault](https://github.com/rstacruz/cheatsheets) ⭐ 14,458 | 🐛 895 | 🌐 TypeScript | 📅 2026-10-06
+<table class="vault-table">
+  <thead>
+    <tr>
+      <th class="col-category">Category</th>
+      <th class="col-name">Name</th>
+      <th class="col-links">Links</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr class="section-row">
+      <th rowspan="2" class="category-cell">Cheat Sheets and Miscellaneous</th>
+      <td>Anki Shared Decks</td>
+      <td><a href="https://ankiweb.net/shared/decks/">vault</a></td>
+    </tr>
+    <tr><td>Cheatsheets from rstacruz</td><td><a href="https://github.com/rstacruz/cheatsheets">vault</a></td></tr>
+  </tbody>
+  <tbody>
+    <tr class="section-row">
+      <th rowspan="2" class="category-cell">Dictionaries and Language Resources</th>
+      <td>Wiktionary and Wikibooks from itkach</td>
+      <td><a href="https://github.com/itkach/slob/wiki/Wiktionary-and-Wikibooks">wiki</a></td>
+    </tr>
+    <tr><td>Word Dictionaries (Wordnet and Freedict) from itkach</td><td><a href="https://github.com/itkach/slob/wiki/Word-dictionaries-(Wordnet-and-Freedict)">wiki</a></td></tr>
+  </tbody>
+  <tbody>
+    <tr class="section-row">
+      <th rowspan="5" class="category-cell">Encyclopedia Resources</th>
+      <td>Kiwix Library</td>
+      <td><a href="https://library.kiwix.org/#lang=eng">library</a></td>
+    </tr>
+    <tr><td>Project N.O.M.A.D.</td><td><a href="https://github.com/crosstalk-solutions/project-nomad">vault</a></td></tr>
+    <tr><td>Wikimedia Dumps</td><td><a href="https://dumps.wikimedia.org/other/static_html_dumps/">static HTML Dumps</a></td></tr>
+    <tr><td>Wikipedia from itkach</td><td><a href="https://github.com/itkach/slob/wiki/Wikipedia">wiki</a></td></tr>
+    <tr><td>Wikis and Dicts from itkach</td><td><a href="https://github.com/itkach/slob/wiki/Other-projects">wiki</a></td></tr>
+  </tbody>
+</table>
+<!-- RESOURCES:END -->
 
 ***
 
 ## List of Showcases (3)
 
-* [Obsidian Digital Garden - Showcases](https://github.com/oleeskild/obsidian-digital-garden/issues/55) ⭐ 2,511 | 🐛 219 | 🌐 TypeScript | 📅 2026-10-04
-* [Awesome list of Digital gardens - lyz-code](https://github.com/lyz-code/best-of-digital-gardens) ⭐ 599 | 🐛 3 | 🌐 Shell | 📅 2026-10-08
+<!-- SHOWCASES:START -->
+
+* [Obsidian Digital Garden - Showcases](https://github.com/oleeskild/obsidian-digital-garden/issues/55) ⭐ 2,511 | 🐛 216 | 🌐 TypeScript | 📅 2026-10-09
+* [Awesome list of Digital gardens - lyz-code](https://github.com/lyz-code/best-of-digital-gardens) ⭐ 599 | 🐛 3 | 🌐 Shell | 📅 2026-10-09
 * [Quartz - Showcases](https://quartz.jzhao.xyz/showcase)
+
+<!-- SHOWCASES:END -->
 
 Feel free to explore and contribute to these awesome resources!
 
@@ -231,4 +216,4 @@ Linked vaults remain under their respective owners' licenses.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-09._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-10._
