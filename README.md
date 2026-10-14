@@ -195,8 +195,8 @@ A curated list of awesome resources, templates, guides for developers, digital g
 
 <!-- SHOWCASES:START -->
 
-* [Obsidian Digital Garden - Showcases](https://github.com/oleeskild/obsidian-digital-garden/issues/55) ⭐ 2,514 | 🐛 211 | 🌐 TypeScript | 📅 2026-10-12
-* [Awesome list of Digital gardens - lyz-code](https://github.com/lyz-code/best-of-digital-gardens) ⭐ 600 | 🐛 3 | 🌐 Shell | 📅 2026-10-13
+* [Obsidian Digital Garden - Showcases](https://github.com/oleeskild/obsidian-digital-garden/issues/55) ⭐ 2,515 | 🐛 211 | 🌐 TypeScript | 📅 2026-10-12
+* [Awesome list of Digital gardens - lyz-code](https://github.com/lyz-code/best-of-digital-gardens) ⭐ 601 | 🐛 3 | 🌐 Shell | 📅 2026-10-13
 * [Quartz - Showcases](https://quartz.jzhao.xyz/showcase)
 
 <!-- SHOWCASES:END -->
@@ -216,4 +216,4 @@ Linked vaults remain under their respective owners' licenses.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-13._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-14._
