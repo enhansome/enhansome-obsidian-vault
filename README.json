@@ -15,11 +15,11 @@
             "id": 459278150,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-15T11:33:48Z",
+            "last_commit": "2026-10-19T14:32:14Z",
             "open_issues": 212,
             "owner": "oleeskild",
             "repo": "obsidian-digital-garden",
-            "stars": 2518,
+            "stars": 2517,
             "topics": []
           },
           "first_seen": "2026-08-28T13:23:28.728Z"
@@ -36,8 +36,8 @@
             "id": 484127372,
             "language": "Shell",
             "license": "CC-BY-SA-4.0",
-            "last_commit": "2026-10-18T20:29:32Z",
-            "open_issues": 4,
+            "last_commit": "2026-10-19T22:16:41Z",
+            "open_issues": 5,
             "owner": "lyz-code",
             "repo": "best-of-digital-gardens",
             "stars": 601,
@@ -50,7 +50,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-19T06:55:06.521Z",
+    "last_updated": "2026-10-20T06:40:27.259Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome list of obsidian vaults",
@@ -62,7 +62,7 @@
       "open_issues": 3,
       "owner": "obsidian-pkm-vault",
       "repo": "awesome-obsidian-vault",
-      "stars": 531,
+      "stars": 533,
       "topics": [
         "awesome-list",
         "knowledge",
