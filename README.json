@@ -36,7 +36,7 @@
             "id": 484127372,
             "language": "Shell",
             "license": "CC-BY-SA-4.0",
-            "last_commit": "2026-10-20T21:30:56Z",
+            "last_commit": "2026-10-21T21:33:13Z",
             "open_issues": 5,
             "owner": "lyz-code",
             "repo": "best-of-digital-gardens",
@@ -50,7 +50,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-21T06:37:02.539Z",
+    "last_updated": "2026-10-22T06:37:47.547Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome list of obsidian vaults",
@@ -62,7 +62,7 @@
       "open_issues": 3,
       "owner": "obsidian-pkm-vault",
       "repo": "awesome-obsidian-vault",
-      "stars": 533,
+      "stars": 534,
       "topics": [
         "awesome-list",
         "knowledge",
