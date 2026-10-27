@@ -19,7 +19,7 @@
             "open_issues": 212,
             "owner": "oleeskild",
             "repo": "obsidian-digital-garden",
-            "stars": 2520,
+            "stars": 2523,
             "topics": []
           },
           "first_seen": "2026-08-28T13:23:28.728Z"
@@ -36,11 +36,11 @@
             "id": 484127372,
             "language": "Shell",
             "license": "CC-BY-SA-4.0",
-            "last_commit": "2026-10-25T20:44:18Z",
+            "last_commit": "2026-10-26T22:35:43Z",
             "open_issues": 6,
             "owner": "lyz-code",
             "repo": "best-of-digital-gardens",
-            "stars": 602,
+            "stars": 604,
             "topics": []
           },
           "first_seen": "2026-08-28T13:23:28.728Z"
@@ -50,7 +50,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-26T07:02:06.807Z",
+    "last_updated": "2026-10-27T06:51:24.277Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome list of obsidian vaults",
