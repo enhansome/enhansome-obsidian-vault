@@ -16,7 +16,7 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-10-20T18:27:31Z",
-            "open_issues": 212,
+            "open_issues": 213,
             "owner": "oleeskild",
             "repo": "obsidian-digital-garden",
             "stars": 2524,
@@ -36,7 +36,7 @@
             "id": 484127372,
             "language": "Shell",
             "license": "CC-BY-SA-4.0",
-            "last_commit": "2026-10-27T22:05:45Z",
+            "last_commit": "2026-10-28T22:29:31Z",
             "open_issues": 6,
             "owner": "lyz-code",
             "repo": "best-of-digital-gardens",
@@ -50,7 +50,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-28T07:30:01.713Z",
+    "last_updated": "2026-10-29T07:40:57.230Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome list of obsidian vaults",
@@ -59,7 +59,7 @@
       "language": "JavaScript",
       "license": "CC0-1.0",
       "last_commit": "2026-10-09T22:58:11Z",
-      "open_issues": 4,
+      "open_issues": 5,
       "owner": "obsidian-pkm-vault",
       "repo": "awesome-obsidian-vault",
       "stars": 539,
