@@ -15,11 +15,11 @@
             "id": 459278150,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-20T18:27:31Z",
+            "last_commit": "2026-10-29T09:04:32Z",
             "open_issues": 213,
             "owner": "oleeskild",
             "repo": "obsidian-digital-garden",
-            "stars": 2524,
+            "stars": 2523,
             "topics": []
           },
           "first_seen": "2026-08-28T13:23:28.728Z"
@@ -36,7 +36,7 @@
             "id": 484127372,
             "language": "Shell",
             "license": "CC-BY-SA-4.0",
-            "last_commit": "2026-10-28T22:29:31Z",
+            "last_commit": "2026-10-29T22:42:25Z",
             "open_issues": 6,
             "owner": "lyz-code",
             "repo": "best-of-digital-gardens",
@@ -50,7 +50,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-29T07:40:57.230Z",
+    "last_updated": "2026-10-30T07:44:36.151Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome list of obsidian vaults",
@@ -58,8 +58,8 @@
       "id": 825523642,
       "language": "JavaScript",
       "license": "CC0-1.0",
-      "last_commit": "2026-10-09T22:58:11Z",
-      "open_issues": 5,
+      "last_commit": "2026-10-29T23:17:08Z",
+      "open_issues": 0,
       "owner": "obsidian-pkm-vault",
       "repo": "awesome-obsidian-vault",
       "stars": 539,
@@ -71,7 +71,7 @@
         "resources"
       ]
     },
-    "original_repository_sha": "0b5aec58b9697e8d161d770396f5be8f1554f863",
+    "original_repository_sha": "656d57aeaaa43560900c87b5c7b79c82b577f460",
     "enhanced_repository": "enhansome/enhansome-obsidian-vault",
     "enhanced_repository_description": null,
     "title": "Awesome List of Obsidian vaults with stars"
