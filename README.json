@@ -36,11 +36,11 @@
             "id": 484127372,
             "language": "Shell",
             "license": "CC-BY-SA-4.0",
-            "last_commit": "2026-11-22T23:31:40Z",
+            "last_commit": "2026-11-24T03:57:28Z",
             "open_issues": 5,
             "owner": "lyz-code",
             "repo": "best-of-digital-gardens",
-            "stars": 614,
+            "stars": 616,
             "topics": []
           },
           "first_seen": "2026-08-28T13:23:28.728Z"
@@ -50,7 +50,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-23T09:50:51.247Z",
+    "last_updated": "2026-11-24T11:39:25.268Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome list of obsidian vaults",
