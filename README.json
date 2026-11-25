@@ -19,7 +19,7 @@
             "open_issues": 217,
             "owner": "oleeskild",
             "repo": "obsidian-digital-garden",
-            "stars": 2537,
+            "stars": 2539,
             "topics": []
           },
           "first_seen": "2026-08-28T13:23:28.728Z"
@@ -36,7 +36,7 @@
             "id": 484127372,
             "language": "Shell",
             "license": "CC-BY-SA-4.0",
-            "last_commit": "2026-11-24T03:57:28Z",
+            "last_commit": "2026-11-25T02:13:45Z",
             "open_issues": 5,
             "owner": "lyz-code",
             "repo": "best-of-digital-gardens",
@@ -50,7 +50,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-24T11:39:25.268Z",
+    "last_updated": "2026-11-25T10:31:38.272Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome list of obsidian vaults",
@@ -58,11 +58,11 @@
       "id": 825523642,
       "language": "JavaScript",
       "license": "CC0-1.0",
-      "last_commit": "2026-10-29T23:17:08Z",
+      "last_commit": "2026-11-25T02:08:10Z",
       "open_issues": 2,
       "owner": "obsidian-pkm-vault",
       "repo": "awesome-obsidian-vault",
-      "stars": 556,
+      "stars": 558,
       "topics": [
         "awesome-list",
         "knowledge",
@@ -71,7 +71,7 @@
         "resources"
       ]
     },
-    "original_repository_sha": "656d57aeaaa43560900c87b5c7b79c82b577f460",
+    "original_repository_sha": "e3f2170b59495771b5d5ce99fe06257990c849f1",
     "enhanced_repository": "enhansome/enhansome-obsidian-vault",
     "enhanced_repository_description": null,
     "title": "Awesome List of Obsidian vaults with stars"
